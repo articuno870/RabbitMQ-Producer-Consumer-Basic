@@ -1,2 +1,2 @@
 # RabbitMQ-Producer-Consumer-Basic
-C:\Workpad_sts_11_09\small project for preparation\codebase
+Workspace: C:\Workpad_sts_11_09\test\workspace
